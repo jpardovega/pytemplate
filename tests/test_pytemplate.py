@@ -1,6 +1,6 @@
 
-from pytemplate import main
+from pytemplate import dummy
 
 
 def test_main():
-    pass
+    dummy.dummyfunc()

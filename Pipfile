@@ -12,6 +12,8 @@ numpy = "*"
 pipenv-setup = "*"
 pytest = "*"
 tox = "*"
+flake8 = "*"
+bumpversion = "*"
 
 [requires]
 python_version = "3.7"

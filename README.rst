@@ -23,9 +23,9 @@ Overview
     :alt: Travis-CI Build Status
     :target: https://travis-ci.com/github/jpardovega/pytemplate
 
-.. |requires| image:: https://requires.io/github/jpardovega/pytemplate/requirements.svg?branch=master
-    :alt: Requirements Status
-    :target: https://requires.io/github/jpardovega/pytemplate/requirements/?branch=master
+.. .. |requires| image:: https://requires.io/github/jpardovega/pytemplate/requirements.svg?branch=master
+..     :alt: Requirements Status
+..     :target: https://requires.io/github/jpardovega/pytemplate/requirements/?branch=master
 
 .. |codecov| image:: https://codecov.io/gh/jpardovega/pytemplate/branch/master/graphs/badge.svg?branch=master
     :alt: Coverage Status
