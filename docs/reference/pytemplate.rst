@@ -1,9 +1,22 @@
-pytemplate
-==========
+pytemplate package
+==================
 
-.. testsetup::
+Submodules
+----------
 
-    from pytemplate import *
+pytemplate.dummy module
+-----------------------
+
+.. automodule:: pytemplate.dummy
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+
+Module contents
+---------------
 
 .. automodule:: pytemplate
-    :members:
+   :members:
+   :undoc-members:
+   :show-inheritance:
