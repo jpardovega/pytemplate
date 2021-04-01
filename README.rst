@@ -47,7 +47,7 @@ Overview
     :alt: Supported implementations
     :target: https://pypi.org/project/pytemplate
 
-.. |commits-since| image:: https://img.shields.io/github/commits-since/jpardovega/pytemplate/v0.1.1.svg
+.. |commits-since| image:: https://img.shields.io/github/commits-since/jpardovega/pytemplate/v0.1.2.svg
     :alt: Commits since latest release
     :target: https://github.com/jpardovega/pytemplate/compare/v0.0.0...master
 
