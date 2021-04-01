@@ -1,5 +1,6 @@
 """This is my dummy module"""
-import numpy
+import os
+
 
 def dummyfunc():
     """This is my dummy function.
@@ -7,5 +8,6 @@ def dummyfunc():
     Returns:
         int: Always returns one.
     """
-    print(1 + 1)
+    print(1+1)
+    print(os.getcwd())
     return 1
