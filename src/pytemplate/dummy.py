@@ -1,5 +1,5 @@
 """This is my dummy module"""
-
+import numpy
 
 def dummyfunc():
     """This is my dummy function.
