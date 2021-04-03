@@ -49,7 +49,7 @@ Overview
 
 .. |commits-since| image:: https://img.shields.io/github/commits-since/jpardovega/pytemplate/v0.1.3.svg
     :alt: Commits since latest release
-    :target: https://github.com/jpardovega/pytemplate/compare/v0.0.0...master
+    :target: https://github.com/jpardovega/pytemplate/compare/v0.1.2...master
 
 
 
